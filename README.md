@@ -72,11 +72,12 @@ python rag100.py
 The system will allow you to input queries and retrieve relevant responses based on the content of the provided documents.
 How Companies Can Use This System
 
-Why Use LLaMA3 for Retrieval-Augmented Generation?
+# Why Use LLaMA3 for Retrieval-Augmented Generation?
 
 LLaMA3 offers state-of-the-art language generation, capable of understanding complex queries and generating contextually relevant answers from unstructured text data.
 
 Unlike traditional keyword-based search engines, this model understands the context behind user queries, offering more precise and insightful responses.
+
 File Structure
 
 rag100.py: Main script for the RAG system.
