@@ -35,12 +35,7 @@ Secure Document Processing:
 All documents remain within the local file system, and the system only extracts necessary text for processing. It avoids storing or transmitting sensitive data beyond what is needed for answering queries.
 
 How to Setup?
-Clone the Repository:
 
-bash
-Copy code
-git clone https://github.com/your-username/repository.git
-cd repository
 Setup the Environment:
 
 Install the required dependencies using the provided env.yml file:
